@@ -1,0 +1,13 @@
+PACOTE EXCLUSIVO PARA NETLIFY
+
+Configuração incluída:
+- comando: npm run build
+- diretório de publicação: dist
+- Node.js: 22
+
+Envie o ZIP como código-fonte para uma nova implantação. Se o painel da
+Netlify mantiver uma configuração antiga, use:
+Build command: npm run build
+Publish directory: dist
+
+Não use "." como diretório de publicação.
